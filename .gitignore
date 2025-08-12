@@ -1,0 +1,4 @@
+*.env
+*.pyc
+__pycache__/
+Personal_AI_agent.egg-info/

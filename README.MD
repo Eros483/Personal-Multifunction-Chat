@@ -10,4 +10,4 @@ Created modular capabilities include
         - url reader with playwright
         - LLM analysis of url contents
 
-Note: Project on pause currently."# Personal-Multifunction-Chat" 
+Note: Project on pause currently.
